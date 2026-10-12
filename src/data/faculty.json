@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Rajesh Verma",
+    "authKey": "RV204",
+    "department": "CSE Department",
+    "cabin": "Block A - Cabin 204",
+    "topics": ["Project Review", "Lab / Research Help", "Doubt Clarification"],
+    "availability": "In Lecture (Free at 2:30 PM)",
+    "hours": 2
+  },
+  {
+    "id": 2,
+    "name": "Prof. Sunita Nair",
+    "authKey": "SN112",
+    "department": "IT Department",
+    "cabin": "Block B - Cabin 112",
+    "topics": ["Doubt Clarification", "Project Review", "Exam / Marks Query"],
+    "availability": "Available in Cabin",
+    "hours": 3
+  },
+  {
+    "id": 3,
+    "name": "Dr. Arvind Menon",
+    "authKey": "AM101",
+    "department": "Placement Cell",
+    "cabin": "Placement Cell - Room 101",
+    "topics": ["Internship / LOR", "Project Review"],
+    "availability": "In Meeting (Free after 3:00 PM)",
+    "hours": 2
+  },
+  {
+    "id": 4,
+    "name": "Prof. Kavita Rao",
+    "authKey": "KR005",
+    "department": "Academic Office",
+    "cabin": "Admin Block - Room 05",
+    "topics": ["Attendance / Leave", "Exam / Marks Query"],
+    "availability": "Available in Cabin",
+    "hours": 2
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "visits": [
+    {
+      "id": 1,
+      "facultyName": "Dr. Rajesh Verma",
+      "reason": "Project Review",
+      "title": "Visited cabin for Final Year Project Phase-1 signature",
+      "description": "Sir, I visited Block A - Cabin 204 at 11:00 AM with my project report, but the cabin was locked. Please let me know when I can come back.",
+      "urgency": "Urgent",
+      "location": "Block A - Cabin 204",
+      "studentName": "Priya",
+      "studentRoll": "21CSE104",
+      "status": "Pending Reply",
+      "facultyReply": "",
+      "repliedAt": null
+    },
+    {
+      "id": 2,
+      "facultyName": "Prof. Sunita Nair",
+      "reason": "Doubt Clarification",
+      "title": "Stopped by cabin for SQL Normalization doubt",
+      "description": "Ma'am, I came to Cabin 112 during break to ask about BCNF decomposition examples before tomorrow's lab exam.",
+      "urgency": "Normal",
+      "location": "Block B - Cabin 112",
+      "studentName": "Rohan",
+      "studentRoll": "21IT218",
+      "status": "Pending Reply",
+      "facultyReply": "",
+      "repliedAt": null
+    },
+    {
+      "id": 3,
+      "facultyName": "Dr. Arvind Menon",
+      "reason": "Internship / LOR",
+      "title": "Visited Placement Cell for Summer Internship NOC",
+      "description": "Sir, I visited Room 101 to get my internship NOC signed, but you were away for a placement session.",
+      "urgency": "Normal",
+      "location": "Placement Cell - Room 101",
+      "studentName": "Meera",
+      "studentRoll": "21CSE089",
+      "status": "Replied",
+      "facultyReply": "I was in the auditorium for the pre-placement talk. Please come to Room 101 at 3:15 PM today with your offer letter.",
+      "repliedAt": 1728710000000
+    },
+    {
+      "id": 4,
+      "facultyName": "Prof. Kavita Rao",
+      "reason": "Attendance / Leave",
+      "title": "Visited Admin Room 05 for Medical Leave form",
+      "description": "Came to submit my medical certificate for the 3 days missed during internal assessment week.",
+      "urgency": "Whenever",
+      "location": "Admin Block - Room 05",
+      "studentName": "Kiran",
+      "studentRoll": "22ECE142",
+      "status": "Completed",
+      "facultyReply": "I am back at my desk in Room 05 now. You can come and submit the signed certificate.",
+      "repliedAt": 1728705000000
+    }
+  ],
+  "notifications": [
+    {
+      "id": 101,
+      "visitId": 1,
+      "toUser": "Dr. Rajesh Verma",
+      "fromUser": "Priya",
+      "reason": "Project Review",
+      "title": "Priya (21CSE104) visited your cabin",
+      "message": "Reason: Project Review — 'Sir, I visited Block A - Cabin 204 at 11:00 AM with my project report, but the cabin was locked.'",
+      "replyText": "",
+      "read": false
+    },
+    {
+      "id": 102,
+      "visitId": 2,
+      "toUser": "Prof. Sunita Nair",
+      "fromUser": "Rohan",
+      "reason": "Doubt Clarification",
+      "title": "Rohan (21IT218) visited your cabin",
+      "message": "Reason: Doubt Clarification — 'Ma'am, I came to Cabin 112 during break to ask about BCNF decomposition examples.'",
+      "replyText": "",
+      "read": false
+    },
+    {
+      "id": 103,
+      "visitId": 3,
+      "toUser": "Meera",
+      "fromUser": "Dr. Arvind Menon",
+      "reason": "Internship / LOR",
+      "title": "Dr. Arvind Menon replied to your cabin visit",
+      "message": "I was in the auditorium for the pre-placement talk. Please come to Room 101 at 3:15 PM today with your offer letter.",
+      "replyText": "I was in the auditorium for the pre-placement talk. Please come to Room 101 at 3:15 PM today with your offer letter.",
+      "read": false
+    }
+  ]
+}

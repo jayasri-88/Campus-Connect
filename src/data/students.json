@@ -1,0 +1,34 @@
+[
+  {
+    "id": "s1",
+    "studentId": "21CSE104",
+    "authKey": "21CSE104",
+    "name": "Priya",
+    "rollNo": "21CSE104",
+    "branch": "CSE - 4th Year"
+  },
+  {
+    "id": "s2",
+    "studentId": "21IT218",
+    "authKey": "21IT218",
+    "name": "Rohan",
+    "rollNo": "21IT218",
+    "branch": "IT - 3rd Year"
+  },
+  {
+    "id": "s3",
+    "studentId": "21CSE089",
+    "authKey": "21CSE089",
+    "name": "Meera",
+    "rollNo": "21CSE089",
+    "branch": "CSE - 4th Year"
+  },
+  {
+    "id": "s4",
+    "studentId": "22ECE142",
+    "authKey": "22ECE142",
+    "name": "Kiran",
+    "rollNo": "22ECE142",
+    "branch": "ECE - 3rd Year"
+  }
+]
